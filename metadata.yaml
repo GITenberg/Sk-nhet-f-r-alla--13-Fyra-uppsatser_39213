@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/502
     wikipedia: http://en.wikipedia.org/wiki/Ellen_Key
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39213#Sk-nhet-f-r-alla--13-Fyra-uppsatser
 gutenberg_issued: '2012-03-20'
 gutenberg_type: Text
 identifiers:
